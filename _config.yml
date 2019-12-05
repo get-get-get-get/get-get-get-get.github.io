@@ -28,7 +28,7 @@ twitter_username: GetGetGetGet4
 github_username:  get-get-get-get
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: minima
 plugins:
   - jekyll-feed
 
